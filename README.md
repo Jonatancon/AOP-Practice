@@ -7,7 +7,7 @@ En este ejemplo se aborda tres casos de uso de la AOP.
 
 - Loggers para los servicios rest y que estos se guarden en un archivo usando logback.
 - Validación de existencia de una entidad en la BD.
-- Control de errores.
+- Control de errores y Envió de notificación a un google chat por medio de un webhoot.
 
 Bibliotecas utilizadas:
 
