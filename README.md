@@ -26,5 +26,5 @@ Si quieren ver algo más complejo en tema de arquitectura o código, pueden revi
 
 ## Authors
 
-- [@Jonatan Restrepo](https://www.github.com/octokatherine)
+- [@Jonatan Restrepo](https://www.github.com/Jonatancon)
 
